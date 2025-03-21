@@ -1,0 +1,16 @@
+print("How old are you?",)
+age = input ()
+print("How tall are you?", end='')
+height = input()
+print("How much do you weight?", end='')
+weight = input()
+
+print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+print("I wonder what the function of code 'end=' is", end=' ')
+functin = input ()
+print("I know some diffirence between the code now",end='')
+
+a = input("how many class do you have today?")
+b = input("what is your responsibility for this class?")
+c = input("what is your goal in college?")
+print(f"today,I took {a} class,my responsibility for the class is {b},I think my goal in the college is {c}")
